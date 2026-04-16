@@ -235,7 +235,7 @@ export async function createCheckoutSession() {
         },
         line_items: [
             {
-                price: "price_1ScXOIPtlKq7GXVj5uh6LFXX",
+                price: "price_1TMz25PtlKq7GXVjh1bVbqkh",
                 quantity: 1,
             },
         ],
