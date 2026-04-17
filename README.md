@@ -1,6 +1,6 @@
 # PetSoft
 
-PetSoft is a Next.js (App Router) web app for managing a pet daycare: sign up, log in, track pets under your care, and unlock access via Stripe payment.
+PetSoft is a Next.js web app for managing a pet daycare: sign up, log in, track pets under your care, and unlock access via Stripe payment.
 
 ## Features
 
