@@ -42,7 +42,7 @@ export default function PaymentPageClient() {
 
       {!success && (
         <Button asChild>
-          <Link href="/api/stripe/checkout">Click for <b className="text-yellow-400">LIFETIME</b> access</Link>
+          <Link href="/api/stripe/checkout">Unlock <b className="text-yellow-400">180 DAYS</b> Access</Link>
         </Button>
       )}
 
